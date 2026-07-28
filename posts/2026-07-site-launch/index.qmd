@@ -1,0 +1,30 @@
+---
+title: "Why this site exists"
+description: "A working record, not a portfolio."
+date: 2026-07-28
+categories: [meta]
+---
+
+Academic web presence usually fails in one of two directions: a static page
+that lists a job title and nothing else, or a stream of activity that says
+nothing about method.
+
+What I want here is narrower. Three things go on this site.
+
+**Papers, with their reproducibility artifacts.** Every published or
+submitted manuscript gets an entry with the analysis code, the variable
+construction log, and an explicit note on which observations were excluded
+and why. If a result depends on a sample restriction, that restriction
+should be visible without emailing me.
+
+**Method notes.** Short pieces on decisions I had to make and could not find
+cleanly documented anywhere: when a configurational analysis adds something
+a regression does not, how to handle a collapsed response category, what a
+robustness battery should actually cover.
+
+**Reading from the climate-venture literature.** I am translating the MIT
+climate and energy entrepreneurship framework into Korean, which means
+reading a great deal on the subject. The useful parts land here.
+
+Nothing about my week. Nothing that would not survive being read by a
+reviewer.

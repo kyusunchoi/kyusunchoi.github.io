@@ -1,0 +1,76 @@
+/*-- scss:defaults --*/
+
+// Bilingual KR/EN academic type stack.
+// Latin glyphs resolve to Source Serif 4 / Inter; Hangul falls through to Noto.
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=Inter:wght@400;500;600&family=Noto+Serif+KR:wght@400;600&family=Noto+Sans+KR:wght@400;500&display=swap');
+
+$ink:        #1a1d21;
+$ink-muted:  #5b6169;
+$pine:       #1d4d3f;   // accent — grounded in the climate/energy subject
+$pine-light: #eef3f0;
+$rule:       #e3e5e2;
+$paper:      #ffffff;
+
+$font-family-sans-serif: "Inter", "Noto Sans KR", -apple-system, sans-serif;
+$font-family-serif:      "Source Serif 4", "Noto Serif KR", Georgia, serif;
+
+$body-color: $ink;
+$body-bg: $paper;
+$link-color: $pine;
+$navbar-bg: $paper;
+$navbar-fg: $ink;
+$font-size-root: 17px;
+
+/*-- scss:rules --*/
+
+h1, h2, h3, .navbar-brand, .about-entity .about-title {
+  font-family: $font-family-serif;
+  font-weight: 600;
+  letter-spacing: -0.012em;
+}
+
+h1 { font-size: 2.1rem; line-height: 1.25; }
+h2 {
+  font-size: 1.4rem;
+  margin-top: 2.6rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid $rule;
+}
+
+body { line-height: 1.72; }
+p { margin-bottom: 1.15rem; }
+
+.navbar { border-bottom: 1px solid $rule; }
+.navbar-brand { font-size: 1.15rem; }
+
+a { text-decoration-thickness: 1px; text-underline-offset: 2px; }
+
+// Publication entries: hanging indent, the convention readers expect in a CV.
+.csl-entry {
+  margin-bottom: 1rem;
+  padding-left: 1.6rem;
+  text-indent: -1.6rem;
+}
+
+// Year markers in the publication list
+.pub-year {
+  font-family: $font-family-sans-serif;
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: $ink-muted;
+}
+
+.callout { border-left-color: $pine; }
+
+blockquote {
+  border-left: 2px solid $pine;
+  background: $pine-light;
+  padding: 0.9rem 1.2rem;
+  font-size: 0.96rem;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; transition: none !important; }
+}

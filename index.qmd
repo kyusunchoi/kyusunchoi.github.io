@@ -1,0 +1,58 @@
+---
+title: "Kyu-Sun Choi"
+subtitle: "최규선"
+image: images/profile.png
+about:
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:cascade@ajou.ac.kr
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=VaS3VtMAAAAJ&hl=en
+    - icon: person-badge
+      text: ORCID
+      href: https://orcid.org/0000-0001-7960-6547
+    - icon: github
+      text: GitHub
+      href: https://github.com/kyusunchoi
+---
+
+Special-Appointment Professor, Industry–Academia Cooperation Foundation,
+Ajou University.
+
+I study why stated commitment so often fails to become realized action —
+in careers, in venture scale-up, and in the green and digital transition.
+The work is empirical and quantitative, built on national panel surveys,
+firm-level disclosure data, and configurational methods.
+
+Before moving into academia I spent a decade inside Korea's public research
+and technology-commercialization system: the National Information Society
+Agency, the Institute for Information and Communications Technology Planning
+and Evaluation, the National Security Research Institute, the Daejeon
+Institute of Science and Technology Promotion, and Korea Science and
+Technology Holdings. That background shapes what I look at — the distance
+between what policy instruments promise and what organizations actually do
+with them.
+
+## Research interests
+
+- STEM workforce development, human resource development, and sustainable careers
+- Scale-up dynamics, venture capital, and deep-tech commercialization
+- Green and digital transition policy
+
+## Currently
+
+Translating *Disciplined Entrepreneurship for Climate and Energy Ventures*
+(Soltoff, Aulet, Hynes, O'Sullivan & Wayman, Wiley) into Korean for Pakyoungsa,
+with support from the Asan Nanum Foundation. Publication expected October 2026.
+
+Korean-language working materials for the framework — case notes, policy
+briefings, and translation commentary — are posted at
+[blog.naver.com/deforinnovation](https://blog.naver.com/deforinnovation).
+
+Principal investigator on a two-year National Research Foundation of Korea
+grant in the humanities and social sciences (2026–2028).

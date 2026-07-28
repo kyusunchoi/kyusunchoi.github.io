@@ -1,0 +1,64 @@
+---
+title: "Research"
+---
+
+One question, asked in three settings: **why does commitment so often fail to
+convert into execution, and what conditions close that gap?**
+
+Across strands I look for asymmetry — cases where the factors that produce a
+stated intention are not the factors that produce the corresponding behaviour.
+Methodologically this pushes toward designs that can represent asymmetry
+directly: configurational analysis alongside regression, moderated mediation
+alongside main effects, latent profiles alongside variable-centred models.
+
+---
+
+## Careers and human capital
+
+The largest strand. How do researchers and technical workers convert learning
+opportunity, organizational support, and psychological resources into
+employability and innovative behaviour — and where does that conversion break
+down?
+
+Recent work examines how career development support transforms personal,
+social, and organizational resources into research passion among STEM
+researchers; how mid-career scientists sustain employability under resource
+threat; and how psychological safety shapes retraining intentions during
+digital transformation.
+
+*Methods: PLS-SEM, multi-group analysis, moderated mediation, latent profile
+and K-means clustering*
+
+## Scale-up and venture finance
+
+Why do ventures that clear early validation stall at scale, and what do
+investors actually weigh when the technology is deep and the horizon is long?
+
+Work in this strand covers corporate venture capital decision criteria for
+deep-tech startups, the relationship between financing difficulty and growth
+aspiration among turnover-scaleup firms, and regional disparities in
+technology innovation capability.
+
+*Methods: fsQCA, importance–performance analysis, propensity score matching,
+network analysis*
+
+## Green and digital transition
+
+What makes climate and energy commitments credible, and when does digital
+transformation help or hinder environmental outcomes?
+
+Current work examines whether digital transformation impedes reuse innovation
+with environmental benefits, how venture firms' social value orientation
+relates to ESG management and performance, and carbon disclosure quality
+across differing regulatory regimes.
+
+*Methods: two-way fixed effects, fsQCA, vignette experiments*
+
+---
+
+## A note on method
+
+Unless a design supports causal identification, findings are reported in
+associational terms. Sample restrictions, excluded observations, and
+construct decisions are documented explicitly rather than left to the
+reader to infer.

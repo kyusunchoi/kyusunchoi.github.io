@@ -1,0 +1,14 @@
+---
+title: "Notes"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  fields: [date, title, description, categories, reading-time]
+  feed: true
+page-layout: full
+title-block-banner: false
+---
+
+Working notes on method, data, and the climate-venture literature.

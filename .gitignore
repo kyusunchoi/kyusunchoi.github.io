@@ -1,0 +1,11 @@
+/_site/
+/.quarto/
+.DS_Store
+*.html
+!index.html
+
+**/*.quarto_ipynb
+
+CLAUDE.md
+AGENTS.md
+PROMPTS.md

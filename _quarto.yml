@@ -1,0 +1,50 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "posts/**/*.qmd"
+
+website:
+  title: "Kyu-Sun Choi"
+  description: "STEM workforce and careers, scale-up dynamics, green and digital transition policy"
+  site-url: "https://kyusunchoi.github.io"
+  favicon: images/favicon.png
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: cv.qmd
+        text: CV
+      - href: blog.qmd
+        text: Notes
+      - text: "DE4CEV (KR)"
+        href: https://blog.naver.com/deforinnovation
+        target: _blank
+    right:
+      - icon: github
+        href: https://github.com/kyusunchoi
+        aria-label: GitHub
+      - text: "ORCID"
+        href: https://orcid.org/0000-0001-7960-6547
+        aria-label: ORCID
+
+  page-footer:
+    left: "© 2026 Kyu-Sun Choi"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme: [litera, theme.scss]
+    toc: true
+    toc-depth: 3
+    anchor-sections: true
+    link-external-newwindow: true
+    lang: ko
+
+bibliography: references.bib
