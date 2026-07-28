@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Kyu-Sun Choi</title>
+<link>https://kyusunchoi.github.io/blog.html</link>
+<atom:link href="https://kyusunchoi.github.io/blog.xml" rel="self" type="application/rss+xml"/>
+<description>STEM workforce and careers, scale-up dynamics, green and digital transition policy</description>
+<generator>quarto-1.10.18</generator>
+<lastBuildDate>Mon, 27 Jul 2026 15:00:00 GMT</lastBuildDate>
+<item>
+  <title>Why this site exists</title>
+  <link>https://kyusunchoi.github.io/posts/2026-07-site-launch/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Academic web presence usually fails in one of two directions: a static page that lists a job title and nothing else, or a stream of activity that says nothing about method.</p>
+<p>What I want here is narrower. Three things go on this site.</p>
+<p><strong>Papers, with their reproducibility artifacts.</strong> Every published or submitted manuscript gets an entry with the analysis code, the variable construction log, and an explicit note on which observations were excluded and why. If a result depends on a sample restriction, that restriction should be visible without emailing me.</p>
+<p><strong>Method notes.</strong> Short pieces on decisions I had to make and could not find cleanly documented anywhere: when a configurational analysis adds something a regression does not, how to handle a collapsed response category, what a robustness battery should actually cover.</p>
+<p><strong>Reading from the climate-venture literature.</strong> I am translating the MIT climate and energy entrepreneurship framework into Korean, which means reading a great deal on the subject. The useful parts land here.</p>
+<p>Nothing about my week. Nothing that would not survive being read by a reviewer.</p>
+
+
+
+ ]]></description>
+  <category>meta</category>
+  <guid>https://kyusunchoi.github.io/posts/2026-07-site-launch/</guid>
+  <pubDate>Mon, 27 Jul 2026 15:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
