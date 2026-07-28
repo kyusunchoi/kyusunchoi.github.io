@@ -4,7 +4,6 @@ toc-depth: 2
 ---
 
 30 peer-reviewed articles, 23 as first author. Author name in **bold**.
-A full CV is available [here](files/cv.pdf).
 
 ::: {.callout-note appearance="minimal"}
 Also indexed at
