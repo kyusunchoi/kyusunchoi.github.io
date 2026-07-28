@@ -45,6 +45,6 @@ format:
     toc-depth: 3
     anchor-sections: true
     link-external-newwindow: true
-    lang: ko
+    lang: en
 
 bibliography: references.bib
