@@ -24,7 +24,7 @@ website:
       - href: blog.qmd
         text: Notes
       - text: "DE4CEV (KR)"
-        href: https://blog.naver.com/deforinnovation
+        href: https://24steps4cev.com
         target: _blank
     right:
       - icon: github

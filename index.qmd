@@ -47,11 +47,14 @@ with them.
 ## Currently
 
 Translating *Disciplined Entrepreneurship for Climate and Energy Ventures*
-(Soltoff, Aulet, Hynes, O'Sullivan & Wayman, Wiley) into Korean for Pakyoungsa,
-with support from the Asan Nanum Foundation. Publication expected October 2026.
+(Soltoff, Aulet, Hynes, O'Sullivan & Wayman, Wiley) into Korean for Pakyoungsa
+as 『스타트업 마에스트로: 기후·에너지 딥테크 편』, with support from the Asan
+Nanum Foundation. Publication expected October 2026.
 
-Korean-language working materials for the framework — case notes, policy
-briefings, and translation commentary — are posted at
+The Korean companion course site for the 24-step framework — worksheets and
+exercises that accompany the book — is at
+[24steps4cev.com](https://24steps4cev.com). Case notes, policy briefings, and
+translation commentary are posted at
 [blog.naver.com/deforinnovation](https://blog.naver.com/deforinnovation).
 
 Principal investigator on a two-year National Research Foundation of Korea

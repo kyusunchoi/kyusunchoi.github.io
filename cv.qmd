@@ -42,7 +42,8 @@ toc-depth: 2
 (Humanities and Social Sciences), 2026–2028 — Principal Investigator, sole award
 
 **Korea Technology Innovation Society**, Early-Career Researcher Program,
-2026 — Principal Investigator, sole award
+2026–2027 — Principal Investigator, sole award
+: Operating factors of venture studios for public technology commercialization
 
 **Asan Nanum Foundation**, Asan University Climate Tech Entrepreneurship
 Program, 2025–2026 — Project Manager
@@ -50,7 +51,14 @@ Program, 2025–2026 — Project Manager
 **Ministry of Science and ICT**, Public Technology-Based Market-Connected
 Startup Exploration Program (Korean I-Corps), 2025 — Project Manager
 
-**KISTEP Fellowship Program**, 2025 — Principal Investigator
+**KISTEP Fellowship Program**, 2025 — Fellow
+: Open public R&D ecosystems linking deep-tech startups with corporates and CVCs
+
+**Korea Angel Investment Association**, Daejeon Startup Investment Ecosystem
+Study, 2025 — Principal Investigator
+
+**Daejeon Sejong Research Institute**, Innovation Ecosystem for Daejeon's
+Smart Agri-Industry Firms, 2025 — Non-Standing Research Fellow
 
 **KISDI** Digital Economy and Society Research Program, 2025 — Principal Investigator
 
@@ -64,11 +72,19 @@ Startup Exploration Program (Korean I-Corps), 2025 — Project Manager
 : Best Paper Award, Korea Innovation Society
 : President's Award for Outstanding Research, Daejeon University
 
+2023
+: Grand Prize, Learning Lab Program, Korea Institute of S&T Human Resources Development (KIRD)
+
+2022
+: Excellence Award, Learning Lab Program, KIRD — team leader
+: President's Commendation, DISTEP — first Outstanding Employee designation
+
 2021
 : Minister's Award, Ministry of Science and ICT — KISTI NTIS Data Utilization Competition
 
 2017
 : President's Award, IITP
+: Academic Excellence Award, KAIST (2017–2018)
 
 # Teaching
 
@@ -80,7 +96,8 @@ Startup Exploration Program (Korean I-Corps), 2025 — Project Manager
 : Mentoring for student and faculty pre-founders (40+ sessions)
 
 **Sejong Metropolitan Office of Education** — 2019–2022
-: Venture Entrepreneurship: Theory and Practice
+: Venture Entrepreneurship: Theory and Practice — joint campus curriculum,
+  174 certified hours, 8 courses over 7 semesters
 
 # Service
 
@@ -94,8 +111,35 @@ Entrepreneurship Research Division, 2025–
 : 기술혁신학회지 · 산학기술학회지 · 혁신클러스터연구 · 산업혁신연구 ·
   한국브랜드디자인학회지 · 벤처창업연구
 
+**KAIST Industry Trend Research Group** — Research Fellow, 2018–
+: Co-author of four edited volumes on Korean industry strategy
+
+**Telecommunications Technology Association (TTA)**, Standardization
+Committee — Project Group Member, 2016–2019
+
 **Advisory** — Bio I-Core Program, Ministry of Science and ICT (investment
 track), 2023–2026 · Climate Future Network, 2026–
+
+# Selected presentations
+
+2025
+: 대한민국 딥테크 스타트업 투자 동향 — 혁신클러스터학회 추계학술대회 특별세션
+: 중장년 과학기술인력의 고용가능성과 혁신행동에 대한 자원보존이론적 접근 —
+  한국인적자원개발학회 추계 공동학술대회 (우수논문상)
+: 기업벤처투자사(CVC) 중심의 딥테크 스타트업 투자 활성화 방안 —
+  혁신클러스터학회 춘계학술대회
+
+2024
+: 과학기술 분야 재직자의 개인·심리적 특성이 직무 열의를 매개로 혁신 행동에
+  미치는 영향 — 한국혁신학회·KIRD 공동 추계학술대회 (발표논문상 최우수상)
+
+2022
+: 기업의 시장성과 창출에 영향을 미치는 요인: 수도권·비수도권 기업 대상
+  퍼지셋 질적비교분석 — 한국기술혁신학회 추계학술대회
+
+2019
+: 정부의 OSS 플랫폼 생태계 조성에 대한 고찰: 전자정부 표준프레임워크 사례 —
+  기술경영경제학회 하계학술대회 KAIST 특별세션
 
 # Certifications
 
@@ -103,6 +147,8 @@ Venture Capitalist (Korean Venture Capital Association, 2022) ·
 Accredited Angel Investor (Korea Business Angels Association, 2022) ·
 Research Planning Professional (2023) · Technology Commercialization
 Coordinator (2023) · Patent Management Consultant Level 1 (2022) ·
-Business Model Consultant (2021) · Technology Startup Consultant (2021)
+Business Model Consultant (2021) · Technology Startup Consultant (2021) ·
+Privacy Impact Assessment Professional (NIA, 2015) · ITIL Foundation (EXIN,
+2015) · Librarian, Level 2 (Ministry of Culture, Sports and Tourism, 2014)
 
 TOEIC 935 (2016)

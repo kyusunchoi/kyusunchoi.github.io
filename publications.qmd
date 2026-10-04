@@ -3,7 +3,7 @@ title: "Publications"
 toc-depth: 2
 ---
 
-30 peer-reviewed articles, 23 as first author. Author name in **bold**.
+29 peer-reviewed articles, 22 as first or corresponding author. Author name in **bold**.
 
 ::: {.callout-note appearance="minimal"}
 Also indexed at
@@ -49,13 +49,9 @@ learning as an adaptive mechanism and stage-specific career conditions.
 
 ## 2026
 
-**최규선** (2026). Retraining intentions in STEM during digital transformation:
-Psychological safety's indirect paths via personal resources and generational
-differences. *아시아정보정책연구*. 게재확정.
-
 박소연, 송후섭, 김성은, **최규선** (2026). 기술이전 기업의 역량은 어떻게
 성과로 전환되는가: 신제품 개발, 재무성과에 있어서 기술 흡수역량의 매개효과.
-*벤처혁신연구*. 게재확정.
+*혁신기업연구*.
 
 ## 2025
 
@@ -69,7 +65,7 @@ differences. *아시아정보정책연구*. 게재확정.
 Comparing manufacturing and service firms' journey into intelligent IT.
 *경영학연구*, 54(6), 1537–1566.
 [doi:10.17287/kmr.2025.54.6.1563](https://doi.org/10.17287/kmr.2025.54.6.1563)
-· KCI 우수등재
+· KCI 우수등재, Scopus 등재 승인(2026)
 
 **최규선**, 정석환, 김민석 (2025). CVC의 딥테크 스타트업 투자 결정요인 도출:
 fsQCA 및 IPA 기반 투자자 비교 분석. *벤처창업연구*, 20(4), 215–232.
@@ -173,13 +169,13 @@ ESG 경영활동. *혁신기업연구*, 9(3), 69–92.
 
 # Books
 
-**최규선** (역) (2026, 예정). *기후테크 창업의 정석: MIT 24단계로 완성하는
-기후·에너지 비즈니스*. 박영사. 원저: Soltoff, Aulet, Hynes, O'Sullivan &
-Wayman, *Disciplined Entrepreneurship for Climate and Energy Ventures*
-(Wiley). 아산나눔재단 후원.
+**최규선** (역) (2026, 예정). *스타트업 마에스트로: 기후·에너지 딥테크 편*.
+박영사. 원저: Soltoff, Aulet, Hynes, O'Sullivan & Wayman, *Disciplined
+Entrepreneurship for Climate and Energy Ventures* (Wiley). 아산나눔재단 후원.
+실습 사이트: [24steps4cev.com](https://24steps4cev.com).
 
 *AI 대전환 시대: KAIST가 주목한 한국 산업의 혁신과 도전* (2026).
-율곡출판사. 제6장 집필: 전고체 전지.
+율곡출판사. 제6장 집필: 전고체 배터리 전·후로 변모할 미래 모빌리티 사회.
 
 *기후미래 코리아: 글로벌 기후 위기를 기회로 전환하는 23가지 통찰* (2025).
 탄소중립정책포럼 공저.
@@ -198,3 +194,15 @@ Wayman, *Disciplined Entrepreneurship for Climate and Energy Ventures*
 
 *한국산업의 미래전략* (2019). 율곡출판사. 제1장 집필: 통신산업의
 디지털 트랜스포메이션. 2019년 세종학술도서 우수부문.
+
+---
+
+# Policy reports
+
+대전세종연구원 (2025). *대전 스마트농산업 기업의 혁신생태계 조성 방안*
+(정책 2025-08). 공동연구, 비상임연구위원.
+[보고서](https://www.dji.re.kr/board.es?mid=a10101000000&bid=0001&list_no=34095&act=view)
+
+한국과학기술기획평가원 (2025). *개방형 공공 R&D 혁신 생태계 구축을 통한
+딥테크 스타트업과 대기업·CVC 연계 투자 활성화 방안*. KISTEP Fellowship
+Program, 펠로우.
