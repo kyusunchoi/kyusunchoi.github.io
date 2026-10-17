@@ -54,18 +54,25 @@ quarto preview
 | `_quarto.yml` | 사이트 제목, `site-url`, 네비게이션, ORCID 주소 |
 | `index.qmd` | 소개문, 이메일, Google Scholar 주소 |
 | `research.qmd` | 연구 축 3개 서술 |
-| `references.bib` | **여기가 핵심** — 논문 목록. 아래 4번 참조 |
-| `publications.qmd` | 저서, 워킹페이퍼 |
+| `references.bib` | 선택 논문의 기계 판독용 서지정보. 아래 4번 참조 |
+| `publications.qmd` | 공개 논문 목록과 편수 집계, 저서, 워킹페이퍼, 정책보고서 |
 | `images/profile.jpg` | 프로필 사진으로 교체 (정사각형 권장, 600px 이상) |
 | `files/cv.pdf` | CV PDF 를 이 경로에 넣으면 링크가 살아납니다 |
 | `theme.scss` | 색·서체. 손대지 않아도 됩니다 |
 
 ---
 
-## 4. 논문 목록 자동화
+## 4. 논문 목록 갱신
 
-`publications.qmd` 의 목록은 `references.bib` 에서 자동 생성됩니다.
-논문이 추가되면 **bib 항목만 넣으면 끝**이고, HTML을 손댈 필요가 없습니다.
+공개 논문 목록은 `publications.qmd` 본문에서 직접 관리합니다.
+새 논문은 해당 학술지 분류와 연도 아래에 추가하고, 상단의 전체 편수와
+제1·교신저자 편수를 함께 갱신합니다. 제목·저자·권호·쪽수·DOI는 출판본이나
+확인된 서지정보에 근거하여 입력합니다.
+
+`references.bib` 는 선택 논문의 기계 판독용 서지정보이며, 이 파일만 수정해도
+공개 목록이 자동 갱신되는 구조는 아닙니다. 해당 논문의 BibTeX 항목과
+`research.qmd` 등에서 인용하는 연구 소개도 필요에 따라 함께 갱신합니다.
+HTML은 Quarto가 생성하므로 직접 수정하지 않습니다.
 
 BibTeX 항목 얻는 법:
 - Google Scholar → 논문 옆 인용 아이콘 → BibTeX

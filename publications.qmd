@@ -3,7 +3,7 @@ title: "Publications"
 toc-depth: 2
 ---
 
-29 peer-reviewed articles, 22 as first or corresponding author. Author name in **bold**.
+30 peer-reviewed articles, 23 as first or corresponding author. Author name in **bold**.
 
 ::: {.callout-note appearance="minimal"}
 Also indexed at
@@ -48,6 +48,13 @@ learning as an adaptive mechanism and stage-specific career conditions.
 # Domestic journals (KCI)
 
 ## 2026
+
+**Choi, K.-S.** (2026). Retraining intentions in STEM during digital
+transformation: Psychological safety’s indirect paths via personal resources
+and generational differences. *Asian Journal of Innovation and Policy*,
+15(2), 142–189.
+[doi:10.7545/ajip.2026.15.2.142](https://doi.org/10.7545/ajip.2026.15.2.142)
+· Sole author · KCI
 
 박소연, 송후섭, 김성은, **최규선** (2026). 기술이전 기업의 역량은 어떻게
 성과로 전환되는가: 신제품 개발, 재무성과에 있어서 기술 흡수역량의 매개효과.

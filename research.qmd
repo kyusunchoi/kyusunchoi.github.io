@@ -23,8 +23,10 @@ down?
 Recent work examines how career development support transforms personal,
 social, and organizational resources into research passion among STEM
 researchers; how mid-career scientists sustain employability under resource
-threat; and how psychological safety shapes retraining intentions during
-digital transformation.
+threat; and how psychological safety is associated with retraining intentions
+during digital transformation through personal resources, with generational
+differences in these relationships
+([Choi, 2026](https://doi.org/10.7545/ajip.2026.15.2.142)).
 
 *Methods: PLS-SEM, multi-group analysis, moderated mediation, latent profile
 and K-means clustering*
