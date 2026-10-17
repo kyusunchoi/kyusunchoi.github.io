@@ -50,7 +50,9 @@ Translated *Disciplined Entrepreneurship for Climate and Energy Ventures*
 (Soltoff, Aulet, Hynes, O'Sullivan & Wayman, Wiley) into Korean as
 『스타트업 마에스트로: 기후·에너지 딥테크를 위한 24단계 플레이북』
 (Pakyoungsa, published October 15, 2026), with support from the Asan Nanum
-Foundation.
+Foundation. The book is now the core text for *A-DeepTech Venture Lab*, the
+graduate deep-tech entrepreneurship course I teach at Ajou University
+(BK21 curriculum, fall 2026).
 
 The Korean companion course site for the 24-step framework — worksheets and
 exercises that accompany the book — is at
