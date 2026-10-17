@@ -5,7 +5,7 @@ image: images/profile.png
 about:
   template: trestles
   image-shape: rounded
-  image-width: 15em
+  image-width: 12em
   links:
     - icon: envelope
       text: Email
@@ -53,9 +53,7 @@ Nanum Foundation. Publication expected October 2026.
 
 The Korean companion course site for the 24-step framework — worksheets and
 exercises that accompany the book — is at
-[24steps4cev.com](https://24steps4cev.com). Case notes, policy briefings, and
-translation commentary are posted at
-[blog.naver.com/deforinnovation](https://blog.naver.com/deforinnovation).
+[24steps4cev.com](https://24steps4cev.com).
 
 Principal investigator on a two-year National Research Foundation of Korea
 grant in the humanities and social sciences (2026–2028).
