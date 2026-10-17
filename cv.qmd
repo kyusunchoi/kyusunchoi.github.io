@@ -62,6 +62,23 @@ Smart Agri-Industry Firms, 2025 — Non-Standing Research Fellow
 
 **KISDI** Digital Economy and Society Research Program, 2025 — Principal Investigator
 
+# Research projects
+
+| Period | Project | Funder | Role |
+|:--|:--|:--|:--|
+| 2026.06–2028.05 | Labor adaptation, employability, and human–technology coexistence in industrial transition driven by circular digital twins (Early-Career Researcher Program, Humanities and Social Sciences) | National Research Foundation of Korea | Principal Investigator |
+| 2026.05–2027.05 | Operating factors of venture studios for advancing public technology commercialization (Early-Career Researcher Program) | Korea Technology Innovation Society | Principal Investigator |
+| 2025.08–2025.10 | Daejeon startup investment ecosystem study | Korea Angel Investment Association | Principal Investigator |
+| 2025.04–2025.09 | Linking deep-tech startups with corporates and CVCs through an open public R&D innovation ecosystem (KISTEP Fellowship Program) | KISTEP | Fellow |
+| 2025.03–2025.05 | Innovation ecosystem for Daejeon's smart agri-industry firms (Policy Report 2025-08) | Daejeon Sejong Research Institute | Non-Standing Research Fellow |
+| 2024.04–2024.12 | Deep Science Startup Support Program: commercializing composite solid electrolytes and silicon anode materials for high-power all-solid-state batteries (RS-2024-00431842) | COMPA, Ministry of Science and ICT | Participating Researcher |
+| 2024.04–2024.10 | Global collaborative scale-up R&D for advanced S&T firms (RS-2024-00433502) | COMPA, Ministry of Science and ICT | Participating Researcher (operations lead) |
+| 2024.04–2024.10 | Diffusion and commercialization of public research outcomes, 2024 (RS-2024-00435444) | COMPA, Ministry of Science and ICT | Participating Researcher |
+| 2023.11–2024.02 | Diffusion and commercialization of public research outcomes, 2023 (RS-2023-00257963) | COMPA, Ministry of Science and ICT | Participating Researcher |
+| 2019.01–2019.12 | ICT trend analysis and policy support (RS-2019-II190153) | IITP | Participating Researcher |
+
+: Periods reflect the term of participation. COMPA = Commercializations Promotion Agency for R&D Outcomes. {.striped .hover tbl-colwidths="[16,52,18,14]"}
+
 # Awards
 
 2025
@@ -140,6 +157,48 @@ track), 2023–2026 · Climate Future Network, 2026–
 2019
 : 정부의 OSS 플랫폼 생태계 조성에 대한 고찰: 전자정부 표준프레임워크 사례 —
   기술경영경제학회 하계학술대회 KAIST 특별세션
+
+# Press
+
+## Op-eds and columns
+
+| Date | Title | Outlet |
+|:--|:--|:--|
+| 2024-12-29 | [[탄소중립과 혁신III] (18) 2025년 을사년, ISSB 공시와 코리아 밸류업](https://www.techm.kr/news/articleView.html?idxno=133973) | TechM |
+| 2024-11-20 | [[탄소중립과 혁신III] (8) 기후테크 스타트업의 성패, 대학에 달려있다](https://www.techm.kr/news/articleView.html?idxno=132532) | TechM |
+| 2024-05-14 | [산업트렌드연구회 1편: 韓 모빌리티 스타트업 블리츠스케일링, 독일과 함께라면 가능하다](https://times.kaist.ac.kr/news/articleView.html?idxno=21734) | KAIST Times |
+| 2023-03-20 | [[탄소중립과 혁신II] (44) 제조강국 코리아의 생존전략 '대덕특구 녹색기술 사업화'](https://www.techm.kr/news/articleView.html?idxno=108139) | TechM |
+| 2018-06 | 보다 명료하게 본연의 나로 살아가는 방법 (June issue, pp. 184–185) | 포카스온 (POSTECH·KAIST·SNU joint newsletter) |
+| 2018-04-03 | [[발언대] 글로벌 클라우드 영토 전쟁](https://www.dt.co.kr/article/11158538) | Digital Times |
+
+: {.striped .hover tbl-colwidths="[14,64,22]"}
+
+## Interviews and media coverage
+
+| Date | Title | Outlet |
+|:--|:--|:--|
+| 2026-10-15 | [박영사, '스타트업 마에스트로: 기후·에너지 딥테크를 위한 24단계 플레이북' 출간](https://www.nbntv.co.kr/news/articleView.html?idxno=4026037) | NBN TV |
+| 2026-10-14 | [[AI서머리] 기후·에너지 창업 24단계 '스타트업 마에스트로' 출간](https://startuprecipe.co.kr/archives/5837310) | Startup Recipe |
+| 2025-07-02 | [스마트농업, 솔루션별 '최적화' 기술이 중요](https://www.apple-economy.com/news/articleView.html?idxno=76600) | Apple Economy |
+| 2024-12-16 | [대한민국 기후테크 전문가들의 통찰…'기후테크 코리아'](https://www.techm.kr/news/articleView.html?idxno=133577) | TechM |
+| 2024-06-13 | [[기후테크솔루션] ③민관협력 통한 기후테크 스타트업 육성으로 글로벌 문 열자](https://www.techm.kr/news/articleView.html?idxno=126028) | TechM |
+| 2023-12-07 | [과학자 자발적 학습모임 '러닝랩'…융합연구 꽃 피웠다](https://biz.heraldcorp.com/article/3276098) | Herald Economy |
+| 2023-11-29 | [국내 딥사이언스 기업, 유럽진출 환경 좋아진다](https://www.hellodd.com/news/articleView.html?idxno=102623) | HelloDD |
+| 2021-07-29 | ["포스코-포스텍 벤처 야망 자극" 대덕사람들 포항 탐방기](https://www.hellodd.com/news/articleView.html?idxno=93729) | HelloDD |
+| 2020-08-14 | [한국산업 어디로 가야 하나, "한국산업의 혁신전략" 출간](https://www.mk.co.kr/news/culture/view/2020/08/839804/) | Maeil Business Newspaper |
+
+: {.striped .hover tbl-colwidths="[14,64,22]"}
+
+## Video
+
+| Date | Title | Channel |
+|:--|:--|:--|
+| 2025-02-10 | [공부하는 즐거움, 한국혁신학회–KIRD 공동학술대회 탐방기](https://www.youtube.com/watch?v=qTnWWjQtwtw) | KIRD (YouTube) |
+| 2024-02-22 | [2023년 과학기술인 학습조직 지원사업 러닝랩 대표성과 ①대청연팀(대상) 인터뷰](https://www.youtube.com/watch?v=UblL8ilLjB0) | KIRD (YouTube) |
+| 2023-12-05 | [2023년 러닝랩(Learninglab) 사업 성과공유회](https://www.youtube.com/watch?v=N8vTiDk3JWs) | KIRD (YouTube) |
+| 2023-02-12 | [2022년 과학기술인 학습조직 지원사업 러닝랩 대표성과](https://www.youtube.com/watch?v=jirPsLZj7Bc) | KIRD (YouTube) |
+
+: {.striped .hover tbl-colwidths="[14,64,22]"}
 
 # Certifications
 
